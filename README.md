@@ -7,3 +7,6 @@ Repository created for tips that every developer can use during their tests.
 
 ### Developer Roadmaps
 * https://roadmap.sh/
+
+### Fast API
+* https://github.com/tiangolo/fastapi
