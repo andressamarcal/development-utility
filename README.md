@@ -112,3 +112,13 @@ Repository created for tips that every developer can use during their tests.
 
 #### Cron Monitoring
 * https://github.com/healthchecks/healthchecks
+
+* https://github.com/gto76/python-cheatsheet
+* https://github.com/satwikkansal/wtfpython
+* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+* https://github.com/realpython/python-guide
+* https://github.com/3b1b/manim
+* https://github.com/wimleers/fileconveyor
+
+#### Awesome Remote Job
+* https://github.com/lukasz-madon/awesome-remote-job
