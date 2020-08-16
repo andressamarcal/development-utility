@@ -23,3 +23,6 @@ Repository created for tips that every developer can use during their tests.
 
 ### Livros Gratuitos sobre Programação
 * https://github.com/EbookFoundation/free-programming-books
+
+### Livros Gratuitos sobre DataScience
+* https://github.com/EbookFoundation/free-science-books
