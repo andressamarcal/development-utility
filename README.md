@@ -122,3 +122,6 @@ Repository created for tips that every developer can use during their tests.
 
 #### Awesome Remote Job
 * https://github.com/lukasz-madon/awesome-remote-job
+
+#### DataScience Notebooks
+* https://github.com/donnemartin/data-science-ipython-notebooks
