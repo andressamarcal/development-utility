@@ -56,6 +56,9 @@ Repository created for tips that every developer can use during their tests.
 #### Awesome Python
 * https://github.com/vinta/awesome-python
 
+#### Python cheatsheet
+* https://github.com/gto76/python-cheatsheet
+
 #### HTTP Pie
 * https://github.com/httpie/httpie
 
@@ -98,6 +101,14 @@ Repository created for tips that every developer can use during their tests.
 #### Apache Superset
 * https://github.com/apache/incubator-superset
 
+#### PIP ENV
+* https://github.com/pypa/pipenv
+
+#### Nerd Fonts
+* https://github.com/ryanoasis/nerd-fonts
 
 #### FastAI
 * https://github.com/fastai/fastai
+
+#### Cron Monitoring
+* https://github.com/healthchecks/healthchecks
