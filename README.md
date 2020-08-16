@@ -7,6 +7,7 @@ Repository created for tips that every developer can use during their tests.
 
 ### Developer Roadmaps
 * https://roadmap.sh/
+* https://github.com/kamranahmedse/developer-roadmap
 
 ### Fast API
 * https://github.com/tiangolo/fastapi
