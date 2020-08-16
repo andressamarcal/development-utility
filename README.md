@@ -13,3 +13,6 @@ Repository created for tips that every developer can use during their tests.
 
 ### Public API's
 * https://github.com/public-apis/public-apis
+
+### APP Ideas
+* https://github.com/florinpop17/app-ideas
