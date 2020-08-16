@@ -10,3 +10,6 @@ Repository created for tips that every developer can use during their tests.
 
 ### Fast API
 * https://github.com/tiangolo/fastapi
+
+### Public API's
+* https://github.com/public-apis/public-apis
