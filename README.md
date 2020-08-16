@@ -37,6 +37,7 @@ Repository created for tips that every developer can use during their tests.
 
 #### Algoritmos e Estrutura de Dados em Python
 * https://github.com/TheAlgorithms/Python
+* https://github.com/geekcomputers/Python
 * https://github.com/keon/algorithms
 
 #### Terminal
