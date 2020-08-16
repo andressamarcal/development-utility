@@ -41,6 +41,9 @@ Repository created for tips that every developer can use during their tests.
 * https://github.com/geekcomputers/Python
 * https://github.com/keon/algorithms
 
+#### PyEnd
+* https://github.com/pyenv/pyenv
+
 #### Terminal
 * https://github.com/ohmyzsh/ohmyzsh
 
@@ -88,3 +91,6 @@ Repository created for tips that every developer can use during their tests.
 
 #### Awesome Cheats
 * https://github.com/LeCoupa/awesome-cheatsheets
+
+#### Apache Superset
+* https://github.com/apache/incubator-superset
