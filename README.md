@@ -2,48 +2,48 @@
 Repository created for tips that every developer can use during their tests.
 
 
-### Gerador de emails temporarios:
+#### Gerador de emails temporarios:
 * https://temp-mail.org/pt/
 
-### Developer Roadmaps
+#### Developer Roadmaps
 * https://roadmap.sh/
 * https://github.com/kamranahmedse/developer-roadmap
 
-### Fast API
+#### Fast API
 * https://github.com/tiangolo/fastapi
 
-### Public API's
+#### Public API's
 * https://github.com/public-apis/public-apis
 
-### APP Ideas
+#### APP Ideas
 * https://github.com/florinpop17/app-ideas
 
-### Build Your Own X
+#### Build Your Own X
 * https://github.com/danistefanovic/build-your-own-x
 
-### Livros Gratuitos sobre Programação
+#### Livros Gratuitos sobre Programação
 * https://github.com/EbookFoundation/free-programming-books
 
-### Livros Gratuitos sobre DataScience
+#### Livros Gratuitos sobre DataScience
 * https://github.com/EbookFoundation/free-science-books
 
-### Codigos Entrevistas Universidades
+#### Codigos Entrevistas Universidades
 * https://github.com/jwasham/coding-interview-university
 
 * https://github.com/donnemartin/system-design-primer
 
-### Algoritmos e Estrutura de Dados em Javascript
+#### Algoritmos e Estrutura de Dados em Javascript
 * https://github.com/trekhleb/javascript-algorithms
 
-### Algoritmos e Estrutura de Dados em Python
+#### Algoritmos e Estrutura de Dados em Python
 * https://github.com/TheAlgorithms/Python
 * https://github.com/keon/algorithms
 
-### Terminal
+#### Terminal
 * https://github.com/ohmyzsh/ohmyzsh
 
-### Gitignore
+#### Exemplos de Gitignore
 * https://github.com/github/gitignore
 
-### Linhas de Comandos
+#### Linhas de Comandos
 * https://github.com/jlevy/the-art-of-command-line
