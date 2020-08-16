@@ -17,3 +17,6 @@ Repository created for tips that every developer can use during their tests.
 
 ### APP Ideas
 * https://github.com/florinpop17/app-ideas
+
+
+* https://github.com/danistefanovic/build-your-own-x
