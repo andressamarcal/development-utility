@@ -18,7 +18,7 @@ Repository created for tips that every developer can use during their tests.
 ### APP Ideas
 * https://github.com/florinpop17/app-ideas
 
-
+### Build Your Own X
 * https://github.com/danistefanovic/build-your-own-x
 
 ### Livros Gratuitos sobre Programação
@@ -36,6 +36,7 @@ Repository created for tips that every developer can use during their tests.
 * https://github.com/trekhleb/javascript-algorithms
 
 ### Algoritmos e Estrutura de Dados em Python
+* https://github.com/TheAlgorithms/Python
 * https://github.com/keon/algorithms
 
 ### Terminal
