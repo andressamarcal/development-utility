@@ -30,7 +30,7 @@ Repository created for tips that every developer can use during their tests.
 #### Codigos Entrevistas Universidades
 * https://github.com/jwasham/coding-interview-university
 
-#### System Design Primer
+#### Aprenda como projetar sistemas em grande escala
 * https://github.com/donnemartin/system-design-primer
 
 #### Algoritmos e Estrutura de Dados em Javascript
@@ -49,3 +49,42 @@ Repository created for tips that every developer can use during their tests.
 
 #### Linhas de Comandos
 * https://github.com/jlevy/the-art-of-command-line
+
+#### Awesome Python
+* https://github.com/vinta/awesome-python
+
+#### HTTP Pie
+* https://github.com/httpie/httpie
+
+#### Requests
+* https://github.com/psf/requests
+
+#### Controle de Automação Residencial
+* https://github.com/home-assistant/core
+
+#### Django 1
+* https://github.com/gothinkster/realworld
+
+#### Django 2
+* https://github.com/wagtail/wagtail
+
+#### Django 3
+* https://github.com/mirumee/saleor
+
+#### Django 4
+* https://github.com/healthchecks/healthchecks
+
+#### Awesome Django
+* https://github.com/healthchecks/healthchecks
+
+#### Django Cookiecutter
+* https://github.com/pydanny/cookiecutter-django
+
+#### Django Debug Toolbar
+* https://github.com/jazzband/django-debug-toolbar
+
+#### Django Extensions
+* https://github.com/django-extensions/django-extensions
+
+#### Awesome Cheats
+* https://github.com/LeCoupa/awesome-cheatsheets
