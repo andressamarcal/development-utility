@@ -20,3 +20,6 @@ Repository created for tips that every developer can use during their tests.
 
 
 * https://github.com/danistefanovic/build-your-own-x
+
+### Livros Gratuitos sobre Programação
+* https://github.com/EbookFoundation/free-programming-books
