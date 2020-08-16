@@ -77,6 +77,9 @@ Repository created for tips that every developer can use during their tests.
 #### Django 4
 * https://github.com/healthchecks/healthchecks
 
+#### Django Environ
+* https://github.com/joke2k/django-environ
+
 #### Awesome Django
 * https://github.com/healthchecks/healthchecks
 
