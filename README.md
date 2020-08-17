@@ -125,3 +125,6 @@ Repository created for tips that every developer can use during their tests.
 
 #### DataScience Notebooks
 * https://github.com/donnemartin/data-science-ipython-notebooks
+
+#### Gerar dados Fakes para testes
+* https://github.com/joke2k/faker
