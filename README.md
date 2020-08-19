@@ -128,3 +128,6 @@ Repository created for tips that every developer can use during their tests.
 
 #### Gerar dados Fakes para testes
 * https://github.com/joke2k/faker
+
+#### Guia de Boas Práticas com Django (Moacir Moda)
+* https://moacirmoda.com/django-models-o-guia-definitivo-das-boas-praticas/
